@@ -7,5 +7,4 @@ result = (str(result2))
 result2 = (str(result1))
 data = result2 + result
 hh = '111' + data
-print(len(hh))
-print(hh)
+
