@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-from common.logger import Log
+from api.common.logger import Log
 import unittest
-from pages.home_page import Login
+from api.pages.home_page import Login
 import time
 
 ti = time.strftime("%Y_%m_%d_%H_%M_%S")
